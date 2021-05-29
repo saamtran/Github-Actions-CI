@@ -1,5 +1,3 @@
-import random
-
 def addition(x, y):
     return x + y
 

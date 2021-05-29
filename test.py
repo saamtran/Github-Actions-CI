@@ -1,5 +1,4 @@
 import example
-import math
 import unittest
 
 class TestCase(unittest.TestCase):
