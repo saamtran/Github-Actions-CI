@@ -1,4 +1,4 @@
-import exmaple
+import example
 import math
 import unittest
 
